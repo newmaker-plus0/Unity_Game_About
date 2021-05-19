@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a4be6eae5a0bd048a026487d97a96e8, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  skillID: 11
+  skillSprite: {fileID: 21300022, guid: 878141b76f2b9de418af141095a9cb31, type: 3}
+  skillName: Crazy
+  skillLevel: 0
+  skillMaxLevel: 5
+  skillDes: Increase critical damage.
+  isUnlocked: 0
+  preSkills:
+  - {fileID: 11400000, guid: 8b549e093a953374bb08ccab69f866d7, type: 2}

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collection
+  - Enemy
+  - DeadLine
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1169829109
+    locked: 0
+  - name: Environment
+    uniqueID: 2600461375
+    locked: 0
+  - name: Player
+    uniqueID: 2069922365
+    locked: 0
+  - name: Frontground
+    uniqueID: 1464809585
+    locked: 0
+  - name: ground
+    uniqueID: 3468833615
+    locked: 0
+  - name: 
+    uniqueID: 828455565
+    locked: 0
